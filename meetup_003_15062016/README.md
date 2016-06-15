@@ -14,7 +14,7 @@ von [Franziska Eder](https://twitter.com/meineartfeder)
 
 ### Links
 
-## MINASWAN for everyone
+## MINASWAN 4 Everyone
 von [Max Mulatz](https://twitter.com/klappradla)
 
 ### Slides
