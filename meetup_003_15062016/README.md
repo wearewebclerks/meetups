@@ -5,7 +5,18 @@ von [David Pichsenmeister](https://twitter.com/3x14159265)
 
 ### Slides
 
+<http://de.slideshare.net/3x14159265/messenger-platform-wars>
+
 ### Links
+
+* <https://pichsenmeister.com/me/>
+* <https://www.facebook.com/events/1731638837090017/>
+* <https://orat.io/blog/>
+* <http://www.businessinsider.de/the-messaging-app-report-2015-11?r=US&IR=T>
+* <https://medium.com/@saranormous/clippy-s-revenge-39f7387f9aab#.nn80jrtrn>
+* <http://www.statista.com/statistics/263795/number-of-available-apps-in-the-apple-app-store/>
+* <http://blog.appannie.com/understanding-global-messaging-app-user/>
+* <http://a16z.com/2015/08/06/wechat-china-mobile-first/>
 
 ## Webfont Performance
 von [Franziska Eder](https://twitter.com/meineartfeder)
