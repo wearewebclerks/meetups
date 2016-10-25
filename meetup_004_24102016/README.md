@@ -1,6 +1,6 @@
 # webclerks Meetup #4 am 24.10.2016
 
-## Butterweiche Animationen von Björn Ganslandt
+## Butterweiche Animationen
 von [Björn Ganslandt](https://twitter.com/Ansimorph)
 
 ### Slides
