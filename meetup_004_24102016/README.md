@@ -19,9 +19,13 @@ von [Barbara Ondrisek](https://twitter.com/electrobabe)
 
 ### Slides
 
-<https://google.com/>
+<http://de.slideshare.net/barbarao/best-practices-at-implementing-a-cross-platform-chatbot-webclerks-meetup-ondrisek>
 
 ### Links
+
+<https://hipstercatbot.com/>
+<https://www.facebook.com/BotSpot.Vienna/>
+<https://chatbotconf.com/>
 
 ## Burn your CV
 von [Aaron Cruz](https://twitter.com/mraaroncruz)
