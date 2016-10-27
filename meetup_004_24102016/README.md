@@ -23,9 +23,9 @@ von [Barbara Ondrisek](https://twitter.com/electrobabe)
 
 ### Links
 
-<https://hipstercatbot.com/>
-<https://www.facebook.com/BotSpot.Vienna/>
-<https://chatbotconf.com/>
+* [Mica, The Hipster Cat Bot](https://hipstercatbot.com)
+* [BotSpot Vienna](https://www.facebook.com/BotSpot.Vienna)
+* [Chatbot Conf](https://chatbotconf.com)
 
 ## Burn your CV
 von [Aaron Cruz](https://twitter.com/mraaroncruz)
