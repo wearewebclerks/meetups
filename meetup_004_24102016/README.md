@@ -24,7 +24,7 @@ von [Barbara Ondrisek](https://twitter.com/electrobabe)
 ### Links
 
 * [Mica, The Hipster Cat Bot](https://hipstercatbot.com)
-* [BotSpot Vienna](https://www.facebook.com/BotSpot.Vienna)
+* [BotsHub Vienna](https://www.facebook.com/BotsHub)
 * [Chatbot Conf](https://chatbotconf.com)
 
 ## Burn your CV
@@ -32,6 +32,17 @@ von [Aaron Cruz](https://twitter.com/mraaroncruz)
 
 ### Slides
 
-<https://google.com/>
+<http://bit.ly/burn-your-cv-talk>
 
 ### Links
+
+* [The Paradox of Choice Book](https://www.amazon.de/Paradox-Choice-More-Less-P-S/dp/0060005696/ref=as_li_ss_il?ie=UTF8&qid=1477642016&sr=8-1&keywords=paradox+of+choice&linkCode=li2&tag=dotruou-21&linkId=5fa07b5458cce98d4cc09f72892bb9e8)
+* [Project Euler](https://projecteuler.net)
+* [exercism.io](http://exercism.io/)
+* [SMART Goals](http://www.zeitblueten.com/smart-ziele/)
+* [Freelancing In Vienna](http://bit.ly/2dSc6pX)
+
+#### Public Speaking Help
+* <http://weareallaweso.me/>
+* <http://speaking.io/>
+
