@@ -5,7 +5,7 @@ von [Hadi Reda](http://www.hadireda.com/)
 
 ### Slides
 
-<Hadi_Reda_Woocommerce.pdf>
+[Online Shop mit WooCommerce, ja oder nein? Slides (pdf)](Hadi_Reda_Woocommerce.pdf)
 
 ## Be truly responsive & responsible! - Why and how accessibility matters
 von [Jo Spelbrink](https://twitter.com/joville) & [Sindre Wimberger](https://twitter.com/sindrewimberger)
@@ -32,6 +32,6 @@ von [Pilar Huidobro](https://twitter.com/althaire)
 
 ### Slides
 
-<PilarHuidobro-MythicalCreatures.pdf>
+[The Mythical Creatures of Summer of Code Slides (pdf)](PilarHuidobro-MythicalCreatures.pdf)
 
 
