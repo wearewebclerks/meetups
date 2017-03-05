@@ -3,7 +3,7 @@ Slides &amp; Links zu den Talks auf unseren Meetups
 
 ## 2017
 
-* [6. Meetup am 27.02.2017](2017/meetup_006_27022017/README.md)
+* [6. Meetup am 27.02.2017](2017/meetup_006/README.md)
 
 ## 2016
 
