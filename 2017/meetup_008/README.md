@@ -5,24 +5,14 @@ von [David Spiola](https://twitter.com/davidspiola)
 
 ### Slides
 
-<https://speakerdeck.com/>
+<https://speakerdeck.com/webandco/neue-wege-mit-neos-cms>
 
 ### Links
 
 * <https://www.neos.io/>
 
-
-## SQL Injections - Impacts and Fixes
-von Aria Akhavan
-
-### Slides
-
-### Links
-
-
 ## Content-Strategie für WebentwicklerInnen
-von Daniela Holzer
+von [Daniela Holzer](https://twitter.com/matscha)
 
 ### Slides
-
-### Links
+<http://slides.com/danielaholzer/content-strategie-im-development-prozess#/>
