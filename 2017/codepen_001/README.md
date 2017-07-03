@@ -34,6 +34,16 @@
 * <https://codepen.io/matuzo/pen/PjYKXW>
 * <https://rachelandrew.co.uk/css/cheatsheets/grid-fallbacks>
 
+## CSS Transitions and Animation
+
+* [CSS Transition Basics](https://css-tricks.com/almanac/properties/t/transition/)
+* [Animating SVG Strokes](https://css-tricks.com/svg-line-animation-works/)
+* [(free) CSS Animation Course](https://cssanimation.rocks/courses/animation-101/)
+* [Animate.css: Pick-and-Choose Animation Library](https://daneden.github.io/animate.css/)
+* [How to use Bezier Curves for Easing](http://callmenick.com/post/level-up-your-css-animations-with-cubic-bezier)
+* [Bezier Curve Generator](http://easings.net/)
+* [Cool Animation Techniques in UX Design](https://uxplanet.org/popular-web-animation-techniques-a6a467309028)
+
 ## Misc
 
 * [raffle Pen](https://codepen.io/matuzo/pen/ZpwEJv)
