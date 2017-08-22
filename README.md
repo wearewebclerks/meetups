@@ -4,6 +4,7 @@ Slides &amp; Links zu den Talks auf unseren Meetups
 ## 2017
 * 10\. Meetup am 27.11.2017
 * 9\. Meetup am 16.10.2017
+* [2. CodePen Meetup on August 22nd 2017](2017/codepen_002/README.md)
 * [1. CodePen Meetup on June 27th 2017](2017/codepen_001/README.md)
 * [8. Meetup am 22.05.2017](2017/meetup_008/README.md)
 * [7. Meetup am 10.04.2017](2017/meetup_007/README.md)
