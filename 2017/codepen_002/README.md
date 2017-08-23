@@ -29,6 +29,12 @@
 * [🇵🇹 p5.js (processing port to JS)](https://p5js.org/)
 * [🚂 The Coding Train (processing & p5.js codealongs)](https://www.youtube.com/user/shiffman)
 
+## Juho ([@bebraw](https://twitter.com/bebraw))
+
+* [Antwar site generator](https://antwar.js.org/), [GitHub](https://github.com/antwarjs/antwar)
+* [Book site](https://survivejs.com/), [book site source](https://github.com/survivejs/site)
+* [Site template](https://github.com/survivejs-sites/template)
+
 ## Max ([@mxbck](https://twitter.com/mxbck))
 
 * [💾 Offline Form w/ localStorage](https://codepen.io/mxbck/pen/ayYGGO)
