@@ -29,6 +29,11 @@
 * [🇵🇹 p5.js (processing port to JS)](https://p5js.org/)
 * [🚂 The Coding Train (processing & p5.js codealongs)](https://www.youtube.com/user/shiffman)
 
+## Max ([@mxbck](https://twitter.com/mxbck))
+
+* [💾 Offline Form w/ localStorage](https://codepen.io/mxbck/pen/ayYGGO)
+* [Workbox (tools for offline)](https://workboxjs.org/)
+* ["The Offline Cookbook", Jake Archibald](https://jakearchibald.com/2014/offline-cookbook/)
 
 ## Misc
 
