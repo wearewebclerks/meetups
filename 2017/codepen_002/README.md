@@ -11,6 +11,18 @@
 * [CSS-Tricks Almanac: caret-color](https://css-tricks.com/almanac/properties/c/caret-color/)
 * [caniuse: custom proerties](http://caniuse.com/#feat=css-variables)
 
+## Jan ([@mrozilla](https://twitter.com/mrozilla))
+
+* [👇 Elements scroll momentum POC](https://codepen.io/mrozilla/pen/vJjOej?editors=0010)
+* [🔺 Chaos theory Sierpiński triangle](https://codepen.io/mrozilla/pen/OjWJLP?editors=0010)
+* [🎰 Comment header generator](https://codepen.io/mrozilla/pen/jwwpbZ?editors=0010)
+
+&nbsp;
+
+* [📈 processing lang](https://processing.org/)
+* [🇵🇹 p5.js (processing port to JS)](https://p5js.org/)
+* [🚂 The Coding Train (processing & p5.js codealongs)](https://www.youtube.com/user/shiffman)
+
 ## Misc
 
 * [webclerks meetup](https://www.meetup.com/de-DE/webclerks/)
