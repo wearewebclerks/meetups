@@ -4,7 +4,7 @@
 
 * [Blend Mode Kaleidoscope Pen](https://codepen.io/Ansimorph/pen/MvaxKW)
 
-## Manuel
+## Manuel ([@mmatuzo](https://twitter.com/mmatuzo))
 
 * [custom properties Pen](https://codepen.io/matuzo/pen/gxzjwJ)
 * [caret-color pen](https://codepen.io/matuzo/pen/prVavB)
@@ -12,7 +12,7 @@
 * [caniuse: custom proerties](http://caniuse.com/#feat=css-variables)
 
 
-## Felix
+## Felix ([@DerVonDenBergen](https://twitter.com/DerVonDenBergen))
 
 * [0 element Dribbble remake](https://codepen.io/dervondenbergen/pen/dgreG)
 
