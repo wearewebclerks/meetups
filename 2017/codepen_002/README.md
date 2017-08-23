@@ -11,6 +11,12 @@
 * [CSS-Tricks Almanac: caret-color](https://css-tricks.com/almanac/properties/c/caret-color/)
 * [caniuse: custom proerties](http://caniuse.com/#feat=css-variables)
 
+
+## Felix
+
+* [0 element Dribbble remake](https://codepen.io/dervondenbergen/pen/dgreG)
+
+
 ## Jan ([@mrozilla](https://twitter.com/mrozilla))
 
 * [👇 Elements scroll momentum POC](https://codepen.io/mrozilla/pen/vJjOej?editors=0010)
@@ -23,6 +29,8 @@
 * [🇵🇹 p5.js (processing port to JS)](https://p5js.org/)
 * [🚂 The Coding Train (processing & p5.js codealongs)](https://www.youtube.com/user/shiffman)
 
+
 ## Misc
 
 * [webclerks meetup](https://www.meetup.com/de-DE/webclerks/)
+* [CodePen Day Hamburg](https://www.meetup.com/de-DE/CodePen-Germany/events/242031110/)

@@ -22,7 +22,8 @@
 
 ## Felix
 
-<https://github.com/bullgit>
+* [Slides about **bullgit**](http://slides.com/dervondenbergen/bullgit)
+* [**bullgit** on GitHub](https://github.com/bullgit)
 
 ## Mo and Rafael
 
