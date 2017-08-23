@@ -1,6 +1,6 @@
 # 2. CodePen Meetup on August 22nd 2017
 
-## Björn
+## Björn ([@ansimorph](https://twitter.com/ansimorph))
 
 * [Blend Mode Kaleidoscope Pen](https://codepen.io/Ansimorph/pen/MvaxKW)
 
