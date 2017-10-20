@@ -1,14 +1,15 @@
 # webclerks Meetup #9 am 16.10.2017
 
-## A comparison of  styled-components and glamorous
+## A comparison of styled-components and glamorous
 von [Jan Hruby](https://twitter.com/mrozilla)
 
 ### Slides
+- none 🤷‍♂️
 
 ### Links
-
-* <https://github.com/styled-components/styled-components>
-* <https://github.com/paypal/glamorous>
+- [repo for the live-coding session](https://github.com/mrozilla/styled-vs-glamorous)
+- [💅 styled-components](https://github.com/styled-components/styled-components)
+- [💄 glamorous](https://github.com/paypal/glamorous)
 
 ## Frontend deployment with now
 von [Sumit Kumar](https://twitter.com/TweetsOfSumit)
