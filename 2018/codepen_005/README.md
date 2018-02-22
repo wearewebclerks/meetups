@@ -5,6 +5,9 @@
 ## Max ([@mxbck](https://twitter.com/mxbck))
 
 ## Jan ([@mrozilla](https://twitter.com/mrozilla))
+* [Single-element togglebox POC](https://codepen.io/mrozilla/pen/xYjLVd)
+* [Phone number via checkboxes](https://codepen.io/jakealbaugh/pen/yOQEOo)
+* [Checkbox wave](https://codepen.io/THISISAGOODNAME/pen/pgRVvR)
 
 ## Juho ([@bebraw](https://twitter.com/bebraw))
 
@@ -20,3 +23,4 @@
 ## Misc
 
 * [Modern CSS and interactive email - Mark Robbins @ From the Front 2016](https://www.youtube.com/watch?v=A9H73UgIfFY)
+* [Indeterminate checkboxes](https://css-tricks.com/indeterminate-checkboxes/)
