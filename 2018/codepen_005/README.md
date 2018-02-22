@@ -9,6 +9,7 @@
 ## Juho ([@bebraw](https://twitter.com/bebraw))
 
 ## Björn ([@ansimorph](https://twitter.com/ansimorph))
+* [Checkbox with animated checkmark for IE11](https://codepen.io/Ansimorph/pen/GQRrXG)
 
 ## Manuel ([@mmatuzo](https://twitter.com/mmatuzo))
 
