@@ -2,6 +2,8 @@
 
 ## Andrey ([@okonetchnikov](https://twitter.com/okonetchnikov))
 
+- [Feedly Style Guide Checkbox](https://react.feedly.com/#checkbox)
+
 ## Max ([@mxbck](https://twitter.com/mxbck))
 
 ## Jan ([@mrozilla](https://twitter.com/mrozilla))
