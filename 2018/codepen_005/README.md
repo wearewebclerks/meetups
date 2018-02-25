@@ -5,6 +5,8 @@
 - [Feedly Style Guide Checkbox](https://react.feedly.com/#checkbox)
 
 ## Max ([@mxbck](https://twitter.com/mxbck))
+* [Lightbulb Checkbox](https://codepen.io/mxbck/pen/ZrvdaO/)
+* [Twitter Heart](https://codepen.io/mxbck/pen/wypVzM)
 
 ## Jan ([@mrozilla](https://twitter.com/mrozilla))
 * [Single-element togglebox POC](https://codepen.io/mrozilla/pen/xYjLVd)
