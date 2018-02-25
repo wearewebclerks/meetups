@@ -13,6 +13,13 @@
 
 ## Juho ([@bebraw](https://twitter.com/bebraw))
 
+* [Static Websites - The Final Frontier - Slides](https://docs.google.com/presentation/d/1dYwzzByKugHIrfA48cdhV0N-b2S2Ms_Ojd8I4ux_QRg/edit?usp=sharing)
+* [React Finland (24-26.4.2018, Helsinki)](https://react-finland.fi/)
+* [Redesigning react-finland.fi - blog post](https://medium.com/@okonetchnikov/redesigning-react-finland-fi-7f2dd6b5b487)
+* [Redesigning react-finland.fi - video](https://www.youtube.com/watch?v=6Wb1176AU80)
+* [Antwar - Static site generator](https://antwar.js.org/)
+* [React Finland site source](https://github.com/ReactFinland/site)
+
 ## Björn ([@ansimorph](https://twitter.com/ansimorph))
 * [Checkbox with animated checkmark for IE11](https://codepen.io/Ansimorph/pen/GQRrXG)
 
