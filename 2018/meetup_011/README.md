@@ -30,11 +30,16 @@ von [Dominik Angerer](https://twitter.com/DominikAngerer1)
 
 ### Slides
 
-\*
+* Keynote: https://a.storyblok.com/f/40206/x/78a3ace2ec/nuxt_vue.key
+* PDF: https://a.storyblok.com/f/40206/x/b2843cf194/nuxt_vue.pdf
 
 ### Links
 
-* []()
+* [Video Tutorial Series: A full Guide for NuxtJS + Storyblok by Academind](https://academind.com/learn/vue-js/nuxtjs-storyblok-build-a-complete-blog)
+* [Written Tutorial: A full Guide for NuextJS + Storyblok](https://www.storyblok.com/tp/nuxt-js-multilanguage-website-tutorial)
+* [The 90s Storyblok Website](https://github.com/DominikAngerer/90s-nuxt-storyblok-netlify)
+* [Storyblok - Headless Content Management](https://www.storyblok.com/)
+* [Netlify - Deployment and Hosting](https://www.netlify.com/)
 
 ## Space Jam! Eine Web-Archäologie
 
