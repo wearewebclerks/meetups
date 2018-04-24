@@ -1,4 +1,4 @@
-# webclerks Meetup #12 April 24th 2018
+# webclerks Meetup #12 April 23rd 2018
 
 ## Techniques to scale ux teamwork
 
