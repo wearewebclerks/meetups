@@ -5,7 +5,7 @@
 von [Katrin Freihofner](https://twitter.com/Ka_TriN_F)
 
 ### Slides
-
+<http://freihofner.at/webclerks-2018.pdf>
 
 ### Links
 
