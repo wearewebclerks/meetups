@@ -25,7 +25,9 @@ by [Oliver Schöndorfer](https://twitter.com/glyphe)
 * [Article: How to use variable fonts in the real world by Richard Rutter](https://medium.com/clear-left-thinking/how-to-use-variable-fonts-in-the-real-world-e6d73065a604)
 
 
-### FaCSSt: CSS & Performance by [Harry Roberts](https://twitter.com/csswizardry)
+### FaCSSt: CSS & Performance
+
+by [Harry Roberts](https://twitter.com/csswizardry)
 
 ### Slides
 
