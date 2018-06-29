@@ -1,0 +1,46 @@
+# webclerks Meetup #13 June 25th 2018
+
+## Barrierefreie Websites: Tipps & Tools 
+
+by [Stephanie Jagl-Posch](https://twitter.com/steeephiii)
+
+### Slides
+
+<https://www.mizzi.at/wp-content/uploads/2018/06/Meetup_BarrierefreieWebsites.pdf>
+
+### Links
+
+* [Screen Reader User Survey #7 Results](https://webaim.org/projects/screenreadersurvey7/)
+
+## Agile Atomic Design - Experiences from the reality
+
+by [Attila János](https://twitter.com/Attila_Janos)
+
+### Slides
+
+
+### Links
+
+* [atomic design](http://bradfrost.com/blog/post/atomic-web-design/)
+
+## Accessibility vs latest Web APIs. Can’t we just get along?
+
+by [Mauricio Palma](https://twitter.com/PalmaSwell)
+
+### Slides
+
+### Links
+
+## Jobs
+
+### [supseven](https://www.supseven.at/)
+
+* [Team-AssistentIn](https://www.supseven.at/Documents/supseven_Office-Management_2018-06.pdf)
+* [Linux SystemadministratorIn](https://www.supseven.at/Documents/supseven_Systemadministration_2018-06.pdf)
+
+### [Die Socialisten](https://die.socialisten.at/)
+
+* [Fullstack- Developer for the Walls.io Team](https://socialisten.jobbase.io/job/m552gc860yulrcepitle2wdajtz9p2g)
+* [Digital Brand & Media Designer for the Swat.io Team](https://socialisten.jobbase.io/job/ded042was4fnum01b1f34ugu34nfzgg)
+* [Backend- Developer for the Swat.io Team](https://socialisten.jobbase.io/job/wx6pknf9oq320erzgko5w83nn3k1s0h)
+* [Frontend - Developer for the Swat.io Team](https://socialisten.jobbase.io/job/nm4vvbmfgtqvmg8iyaqkpn97exrwh3p)
