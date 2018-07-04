@@ -11,6 +11,15 @@ by [Stephanie Jagl-Posch](https://twitter.com/steeephiii)
 ### Links
 
 * [Screen Reader User Survey #7 Results](https://webaim.org/projects/screenreadersurvey7/)
+* [WCAG 2.0 (Web Content Accessibility Guidelines)](https://www.w3.org/Translations/WCAG20-de/ )
+* [WebAIM - Web Accessibility in Mind](https://webaim.org/)
+* [WAI - Web Accessibility Initiative](https://www.w3.org/WAI/)
+* [A11y Glossar](https://www.gugler-brand-digital.at/a11y-glossar/)
+* [Automatisierte Accessibility Tests](https://axe-core.org/ )
+* [Kontraste prüfen](https://webaim.org/resources/contrastchecker/)
+* [Komponenten wie zB Navigation, Slider; erklärungslastiger](https://inclusive-components.design/ )
+* [Komponenten Code](https://github.com/scottaohara/accessible_components)
+* [Quasi CanIUse für HTML5 Elemente hinsichtlich Barrierefreiheit](http://html5accessibility.com/ )
 
 ## Agile Atomic Design - Experiences from the reality
 
