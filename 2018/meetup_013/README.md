@@ -25,9 +25,6 @@ by [Stephanie Jagl-Posch](https://twitter.com/steeephiii)
 
 by [Attila János](https://twitter.com/Attila_Janos)
 
-### Slides
-
-
 ### Links
 
 * [atomic design](http://bradfrost.com/blog/post/atomic-web-design/)
@@ -38,7 +35,7 @@ by [Mauricio Palma](https://twitter.com/PalmaSwell)
 
 ### Slides
 
-### Links
+<http://matuzo.at/accessibility_vs_apis.pdf>
 
 ## Jobs
 
