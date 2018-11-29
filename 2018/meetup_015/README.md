@@ -1,6 +1,6 @@
 # webclerks Meetup #15 November 14th 2018
 
-![Sketchnotes by Alexandra breBrennernner](sketchnotes.jpeg)
+[![Sketchnotes by Alexandra Brenner](sketchnotes.jpeg)](sketchnotes.pdf)
 
 Sketchnotes by <https://twitter.com/CptBlaubeere>
 

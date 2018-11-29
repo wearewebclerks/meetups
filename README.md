@@ -4,6 +4,7 @@ Slides &amp; Links zu den Talks auf unseren Meetups
 
 ## 2018
 
+* [15\. Meetup am 14.011.2018](2018/meetup_015/README.md)
 * [13\. Meetup am 25.06.2018](2018/meetup_013/README.md)
 * [12\. Meetup am 23.04.2018](2018/meetup_012/README.md)
 * [11\. Meetup am 19.03.2018](2018/meetup_011/README.md)
